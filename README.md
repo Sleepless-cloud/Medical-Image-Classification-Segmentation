@@ -19,13 +19,13 @@
 
 上传皮肤镜图像后，模型自动分割病变区域，并展示分割掩码与热力图。
 
-![分割演示](docs/segmentation_demo.png)
+![segmentation_demo](https://github.com/user-attachments/assets/cf982ee2-33c4-4ea7-8c06-cbc2483e9c65)
 
 ### 分类任务
 
 上传皮肤疾病图像，模型预测病变类型及各类别置信度。
 
-![分类演示](docs/classification_demo.png)
+![classification_demo](https://github.com/user-attachments/assets/37cf9085-b1a8-4962-a9d4-15f291b740fa)
 
 ---
 
